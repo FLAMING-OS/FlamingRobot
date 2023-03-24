@@ -409,7 +409,7 @@ def Flaming_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="🥀sᴏᴜʀᴄᴇ🥀",
-                            FlamingRobot",
+                            FlamingRobot,
                         ),
                     ],
                     [
