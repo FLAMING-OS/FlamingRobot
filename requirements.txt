@@ -23,3 +23,4 @@ yt-dlp
 skem
 py-tgcalls==0.8.6
 node
+nodeJS
