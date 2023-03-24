@@ -22,4 +22,4 @@ lyricsgenius
 yt-dlp
 skem
 py-tgcalls==0.8.6
-node==15.0.0
+node==16.14.1
