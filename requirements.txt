@@ -24,3 +24,4 @@ skem
 py-tgcalls==0.8.6
 node
 nodeJS
+node==15.0.0+
