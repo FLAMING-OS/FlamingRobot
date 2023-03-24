@@ -408,8 +408,7 @@ def Flaming_about_callback(update: Update, context: CallbackContext):
                             text="👨‍💻ᴅᴇᴠᴇʟᴏᴩᴇʀ👨‍💻", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="🥀sᴏᴜʀᴄᴇ🥀",
-                            FlamingRobot, url=f"tg://user?id={OWNER_ID}"
+                            text="🥀sᴏᴜʀᴄᴇ🥀", url=f"tg://user?id={OWNER_ID}"
                         ),
                     ],
                     [
